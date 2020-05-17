@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.test-banner-wrapper {
+	margin: 30px;
+	padding: 30px;
+	border: 1px solid;
+}
+
+.test-banner-title {
+	text-align: center;
+}
